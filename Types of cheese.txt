@@ -4,3 +4,4 @@ Camembert
 Cheddar
 Blue cheese
 Parmesan 
+Swiss cheese
